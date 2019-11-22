@@ -1,0 +1,8 @@
+[1105/225108.525:ERROR:process_info.cc(359)] UncheckedAllocate
+[1105/225109.664:ERROR:process_memory_win.cc(73)] ReadMemory at 0x28e35b29bb0 of 512 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1105/225109.669:ERROR:file_io_win.cc(161)] CreateFile C:\Users\HARIHA~1\AppData\Local\Temp\scoped_dir9772_1422493958\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[1105/231352.817:ERROR:process_info.cc(359)] UncheckedAllocate
+[1111/191506.654:ERROR:process_info.cc(359)] UncheckedAllocate
+[1114/115213.529:ERROR:process_info.cc(359)] UncheckedAllocate
+[1114/115308.315:ERROR:process_info.cc(359)] UncheckedAllocate
+[1114/115308.323:ERROR:process_info.cc(359)] UncheckedAllocate
